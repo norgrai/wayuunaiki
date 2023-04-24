@@ -20,3 +20,13 @@ Please note that the naming deviates!
 
 ## Dataset
 The data used in this work was exactly processed as described in the paper and can be found in the according directory Dataset.
+
+
+## Segmentation
+The data used in this work was exactly processed as described in the paper and can be found in the according directory Dataset.
+
+## Embeddings
+The data used in this work was exactly processed as described in the paper and can be found in the according directory Dataset.
+
+## Factors
+The data used in this work was exactly processed as described in the paper and can be found in the according directory Dataset.
