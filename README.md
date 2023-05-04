@@ -26,6 +26,9 @@ The data used in this work was exactly processed as described in the paper and c
 
 We report [our hyperparameters](https://docs.google.com/spreadsheets/d/1A6sTnDGqX4cKL07LO5XxKhAsR7Iq7wk7wLSmZtTUB1Y/edit?usp=sharing) for training the models with the Marian Interface (v.11) and list the explored hyperparameters of the baseline search.
 
+### Notebook
+tobeupdated:)
+
 ## Segmentation
 
 In this work we applied various unsupervised and semisupervised subword segmentation methods to enrich the data used to train a transformer-based
