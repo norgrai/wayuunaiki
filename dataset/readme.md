@@ -14,6 +14,7 @@ as additional data.
 
 ### Supplementary Material
 Some of our experiments require supplemental information in the form of linguistic annotations, or dictionaries. We
-extracted morphological analyses of verb conjugations in Wayúunaiki from the work of [Álvarez (2017)](https://www.academia.edu/37617681/Manual_de_la_lengua_wayuu) to guide the semi-supervised training of the segmentation models 
-(Prefix-Root-Postfix-Encoding and FlatCat).
+extracted morphological analyses of verb conjugations in Wayúunaiki from the work of [Álvarez (2017)](https://www.academia.edu/37617681/Manual_de_la_lengua_wayuu) and [Lluís Simarro Lacabra (2014)](https://ieslluissimarro.org/castella/files/2014/02/An%C3%A1lisis-morfol%C3%B3gico-de-la-palabra.pdf) to guide the semi-supervised training of the segmentation models (Prefix-Root-Postfix-Encoding and FlatCat).
 
+We manually annotate the morph categories prefix, stem, and suffix of 26 words in Wayúunaiki and 91 in Spanish for the Morfessor Flatcat approach. To
+perform Prefix-Root-Postfix-Encoding, we created two heuristics that contain the common suffixes, prefixes and endings for the Wayúu and Spanish languages.
