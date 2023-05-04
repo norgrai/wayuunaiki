@@ -18,3 +18,5 @@ extracted morphological analyses of verb conjugations in Wayúunaiki from the wo
 
 We manually annotate the morph categories prefix, stem, and suffix of 26 words in Wayúunaiki and 91 in Spanish for the Morfessor Flatcat approach. To
 perform Prefix-Root-Postfix-Encoding, we created two heuristics that contain the common suffixes, prefixes and endings for the Wayúu and Spanish languages.
+
+We provide the POS tag annotated data for the BPE data under ling-factors, fullfilling the standards of [Marian](https://marian-nmt.github.io/docs/api/factors), as well as the factored vocabulary.
