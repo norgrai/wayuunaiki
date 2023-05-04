@@ -1,0 +1,26 @@
+aya’lajaa a/PRE ya’laja/STM a/SUF
+aya’lajeewaa a/PRE ya’laja/STM ee/SUF a/SUF
+aya’lajiraa a/PRE ya’laja/STM ira/SUF a/SUF
+aya’lajünaa a/PRE ya’laja/STM na/SUF a/SUF
+apütüshi a/PRE pütü/STM shi/SUF
+apütüichi a/PRE pütü/STM i/SUF chi/SUF
+apütüeechi a/PRE pütü/STM ee/SUF chi/SUF
+apütüinjachi a/PRE pütü/STM inja/SUF chi/SUF
+apütüshijachi a/PRE pütü/STM shi/SUF ja/SUF chi/SUF
+apütüichipa a/PRE pütü/STM i/SUF chi/SUF pa/SUF
+apütayüi a/PRE püta/STM yü/SUF i/SUF
+apütayüiya a/PRE püta/STM yü/SUF i/SUF ya/SUF
+apütatüjüiya a/PRE püta/STM tüjü/SUF i/SUF ya/SUF
+apütüshima’a a/PRE pütü/STM shi/SUF ma’a/SUF
+apütüshinka a/PRE pütü/STM shi/SUF inka/SUF
+apütamuyuu a/PRE püta/STM muyuu/SUF
+püpüta pü/PRE püta/STM
+tapütale ta/PRE püta/STM le/SUF
+tapütaiwa ta/PRE püta/STM iwa/SUF
+tapütaiwa’aya ta/PRE püta/STM iwa’aya/SUF
+tapütakalaka ta/PRE püta/STM kalaka/SUF
+tapütapa ta/PRE püta/STM pa/SUF
+aya’lajüsü a/PRE ya’lajü/STM sü/SUF
+aya’lajeeshii a/PRE ya’laj/STM ee/SUF shi/SUF
+aya’lajüneeinjachi a/PRE ya’lajü/STM n/ZZZ ee/SUF inja/SUF chi/SUF
+waya’lajirüinjatü wa/PRE ya’laji/STM irü/SUF inja/SUF tü/SUF
