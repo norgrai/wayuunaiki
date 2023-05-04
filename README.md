@@ -5,17 +5,16 @@ Collection of files and code used for my thesis:
 ## Code as of March 2023
 
 ### Thesis
-This work was done as a part of
-As such, we make transparent the tools and code developed by the community.
-Farther more, it is probable that this work will be merged into that [code base]() and continued from there.
-Thus, be sure to check there for the most recent form of this work.
+
+We present the first neural machine translation system for the low-resource language pair Wayúunaiki–Spanish and explore strategies to inject linguistic knowledge into the model to improve translation quality. We explore a wide range of methods and combine complementary approaches. Results indicate that incorporating linguistic information through linguistically motivated subword segmentation, factored models, and pretrained embeddings helps the system to generate improved translations, with the segmentation contributing most. In order to evaluate translation quality in a general domain and go beyond the available religious domain data, we gather and make here available a new test set and supplementary material. Although translation quality as measured with automatic metrics is low, we hope these resources will facilitate and support further research on Wayúunaiki.
+
 
 ## Paper
 
 ### arXiv
 A short version of the thesis will be made available on [arXiv](). Please note that the naming deviates!
 
-### Slidea presentation
+### Slides presentation
 
 ## Dataset
 The data used in this work was exactly processed as described in the paper and can be found in the according directory Dataset.
