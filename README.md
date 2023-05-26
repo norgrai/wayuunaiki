@@ -44,3 +44,26 @@ We only explored transfer learning approaches by using pretrained word embedding
 
 ## Factors
 We extended the architecture of the standard baseline model with subword segmentation by adding linguistic information in the form of POS tag factors and/or supplying the system with pretrained embeddings.
+
+
+## Publications
+
+Please, use the following bibtex entry when citing this research work, tobeupdated:)
+
+@inproceedings{graichen-van-Genabith-espana-bonet-2023,<br>
+    title = "Enriching Wayúunaiki–Spanish Neural Machine Translation with Linguistic Information",<br>
+    author = "Graichen, Nora and van Genabith, Josef and Espa{\~n}a-Bonet, Cristina",<br>
+    booktitle = "Third Workshop on NLP for Indigenous Languages of the Americas",<br>
+    month = 07,
+    year = "2023",
+    address = "Toronto, Canada",<br>
+    publisher = "Association for Computational Linguistics",
+    url = "",
+    pages = ""
+}
+
+
+## Acknowledgements
+Thanks to two supportive natives of the Wayúu community, we were able to analyze our translation results beyond automatic evaluation scores. Both bilingual speakers are non-professional interpreters and translators that helped voluntarily. Adolfo y señora Gladys: ¡Muchas gracias por su ayuda con las traducciones, interés y confianza en el proyecto!
+We thank Jörg Steffen for the integration of the Wayúunaiki–Spanish system in TransIns.
+
