@@ -2,8 +2,8 @@
 
 ### Parallel corpora
 We use the only online parallel corpus for Wayúunaiki and Spanish available in the Tatoeba MT Challenge, version v2021-08-07
-[[Tiedemann, 2020]](https://aclanthology.org/2020.wmt-1.139) The corpus consists of $sim$43k sentence pairs, which we divided
-into a train, development, and test set. We provide the [BPE](https://github.com/rsennrich/subword-nmt) data here (with 4k merge operations with separate vocabularies) under bitext.
+[[Tiedemann, 2020]](https://aclanthology.org/2020.wmt-1.139) The corpus consists of ~43k sentence pairs, which we divided
+into a train, development, and test set. The original partitions are labeled with RAW. We provide the [BPE](https://github.com/rsennrich/subword-nmt) data here (with 4k merge operations with separate vocabularies) under bitext.
 
 Edit: The new general domain test data set is available upon request (due to its usage in an MT class at the UdS)
 
