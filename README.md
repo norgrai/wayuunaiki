@@ -58,8 +58,8 @@ Please, use the following bibtex entry when citing this research work, tobeupdat
     month = 07,
     year = "2023",
     address = "Toronto, Canada",<br>
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2023.americasnlp-1.9",
+    publisher = "Association for Computational Linguistics",<br>
+    url = "https://aclanthology.org/2023.americasnlp-1.9",<br>
     pages = "67--83"
 }
 
