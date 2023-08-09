@@ -11,7 +11,7 @@ We present the first neural machine translation system for the low-resource lang
 
 ## Paper
 
-### arXiv
+### AmericasNLP
 A short version of the thesis has been published [Enriching WayúnaikiSpanish Neural Machine Translation with Linguistic Information](https://aclanthology.org/2023.americasnlp-1.9) (Graichen et al., AmericasNLP 2023). Please note that the naming deviates!
 
 
