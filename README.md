@@ -12,7 +12,8 @@ We present the first neural machine translation system for the low-resource lang
 ## Paper
 
 ### arXiv
-A short version of the thesis will be made available on [arXiv](). Please note that the naming deviates!
+A short version of the thesis has been published [Enriching WayúnaikiSpanish Neural Machine Translation with Linguistic Information](https://aclanthology.org/2023.americasnlp-1.9) (Graichen et al., AmericasNLP 2023). Please note that the naming deviates!
+
 
 ### Slides presentation
 
@@ -53,13 +54,13 @@ Please, use the following bibtex entry when citing this research work, tobeupdat
 @inproceedings{graichen-van-Genabith-espana-bonet-2023,<br>
     title = "Enriching Wayúunaiki–Spanish Neural Machine Translation with Linguistic Information",<br>
     author = "Graichen, Nora and van Genabith, Josef and Espa{\~n}a-Bonet, Cristina",<br>
-    booktitle = "Third Workshop on NLP for Indigenous Languages of the Americas",<br>
+    booktitle = "Proceedings of the Workshop on Natural Language Processing for Indigenous Languages of the Americas (AmericasNLP)",<br>
     month = 07,
     year = "2023",
     address = "Toronto, Canada",<br>
     publisher = "Association for Computational Linguistics",
-    url = "",
-    pages = ""
+    url = "https://aclanthology.org/2023.americasnlp-1.9",
+    pages = "67--83"
 }
 
 
