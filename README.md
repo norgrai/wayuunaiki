@@ -49,7 +49,7 @@ We extended the architecture of the standard baseline model with subword segment
 
 ## Publications
 
-Please, use the following bibtex entry when citing this research work, tobeupdated:)
+Please, use the following bibtex entry when citing this work:
 
 @inproceedings{graichen-van-Genabith-espana-bonet-2023,<br>
     title = "Enriching Wayúunaiki–Spanish Neural Machine Translation with Linguistic Information",<br>
